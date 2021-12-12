@@ -1,5 +1,5 @@
 # Marketing-Campaign-Analysis by Python
-Using a marketing data for an online subscription business to translate business questions into measurable outcomes, including
+Using marketing data for an online subscription business to translate business questions into measurable outcomes, including
 -- "How did this campaign perform?", -- "Which channel is referring the most subscribers?", -- "Why is a particular channel underperforming?" and some more.
 
 - looked at Common high-level Marketing Metrics like Conversion Rate and Retention Rate.
